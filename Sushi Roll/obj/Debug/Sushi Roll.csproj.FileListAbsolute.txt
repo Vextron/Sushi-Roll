@@ -1,0 +1,14 @@
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\bin\Debug\Sushi Roll.exe.config
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\bin\Debug\Sushi Roll.exe
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\bin\Debug\Sushi Roll.pdb
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\obj\Debug\MainWindow.g.cs
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\obj\Debug\App.g.cs
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\obj\Debug\Sushi Roll_MarkupCompile.cache
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\obj\Debug\Sushi Roll_MarkupCompile.lref
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\obj\Debug\MainWindow.baml
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\obj\Debug\Sushi Roll.g.resources
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\obj\Debug\Sushi_Roll.Properties.Resources.resources
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\obj\Debug\Sushi Roll.csproj.GenerateResource.cache
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\obj\Debug\Sushi Roll.csproj.CoreCompileInputs.cache
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\obj\Debug\Sushi Roll.exe
+C:\Users\nuno1\OneDrive\Documentos\Projects\DesktopApp\Sushi Roll\Sushi Roll\obj\Debug\Sushi Roll.pdb
